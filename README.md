@@ -1862,9 +1862,8 @@ Nishant contributes to the platform's user interface refinement and quality assu
   - Mobile responsiveness testing
 
 - **Connect:**
-  - 💼 LinkedIn: [linkedin.com/in/nishant](https://www.linkedin.com/in/nishant)
-  - 🐙 GitHub: [github.com/Nishant](https://github.com/Nishant)
-  - 📧 Email: [nishant@zapsas.life](mailto:nishant@zapsas.life)
+  - 💼 LinkedIn: [linkedin.com/in/nishantsonar44](https://www.linkedin.com/in/nishantsonar44/)
+  - 🐙 GitHub: [github.com/Nishant-sonar](https://github.com/Nishant-sonar)
 
 ---
 
