@@ -1840,7 +1840,6 @@ Prashant is the creator and primary developer of ZAPSAS, responsible for the pla
   - Deployment and DevOps
 
 - **Connect:**
-  - 🌐 Portfolio: [prashantparshuramkar.host20.uk](https://prashantparshuramkar.host20.uk/)
   - 💼 LinkedIn: [linkedin.com/in/prashantpkp](https://www.linkedin.com/in/prashantpkp/)
   - 🐙 GitHub: [github.com/PrashantPKP](https://github.com/PrashantPKP)
   - 🐦 Twitter: [@Prashant_PKP_](https://twitter.com/Prashant_PKP_)
